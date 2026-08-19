@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.newtons.payroll.twa",
+      "sha256_cert_fingerprints": [
+        "BE:4A:1A:8B:C6:05:6F:57:D5:C1:44:FD:7D:E2:22:17:CB:13:9C:F2:72:F6:CF:5B:55:FD:9B:DA:42:C5:B1:02"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.newtons.payroll",
+      "sha256_cert_fingerprints": [
+        "BE:4A:1A:8B:C6:05:6F:57:D5:C1:44:FD:7D:E2:22:17:CB:13:9C:F2:72:F6:CF:5B:55:FD:9B:DA:42:C5:B1:02"
+      ]
+    }
+  }
+]
